@@ -1,0 +1,2 @@
+O que foi implementado
+RequisitoStatusCampo de texto para cidade✅Botão "Buscar clima"✅Requisição 1 — Geocoding (cidade → lat/lon)✅Requisição 2 — Forecast (coordenadas → clima)✅Salvar última cidade no localStorage✅Preencher automaticamente ao abrir a página✅Mensagem de carregamento durante as requisições✅Mensagem de erro amigável (sem travar a página)✅Aeroportos monitorados com clima em tempo real✅lista-aeroportos.md na raiz
